@@ -1,0 +1,3 @@
+a variavel será declarada usando static
+
+exemplo static int variavel;

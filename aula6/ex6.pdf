@@ -1,0 +1,3 @@
+deverá usar private por exemplo:
+
+private int obj1 = x;
