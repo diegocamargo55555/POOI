@@ -1,0 +1,3 @@
+O output será x = 8 e x = 12.
+
+O I está como private pois a subclasse não tentará acessa-lo ja. Ao contrario dos metodos que estão como protected
