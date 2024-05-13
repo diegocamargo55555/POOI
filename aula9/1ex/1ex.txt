@@ -1,0 +1,1 @@
+Ocorrerá um erro pois a subclasse e seus metodos não poderam acessar largura e altura.
