@@ -1,7 +1,12 @@
 public class Pessoa {
 
-    private String nome;
-    private int idade;
+    public String nome;
+    public int idade;
+
+    public Pessoa(String name, int age){
+        nome = name;
+        idade = age;
+    }
 
     public String getNome() {
         return nome;

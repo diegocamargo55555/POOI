@@ -1,8 +1,8 @@
-public class Estudante extends Pessoa{
+public class Estudante extends Pessoa implements Falante{
 
-    public Pessoa(String name, int age){
-         super();
-        idade = age;
+    public Estudante(String name, int age){
+         super(name, age);
+
     }
 
 
